@@ -5,6 +5,8 @@ Here we provide our dataset for abusive language detection in the Indonesian lan
 * In **re_dataset_two_labels.csv**, the dataset coded into two labels, that are `1` (*not abusive language*) and `2` (*abusive language*);
 * In **re_dataset_three_labels.csv**, the dataset coded into three labels, that are  `1` (*not abusive language*), `2` (*abusive but not offensive*), and `3` (*offensive language*).
 
+Due to the Twitter's Terms of Service, we do not provide the tweet ID. All username and URL in this dataset are changed into USER and URL. 
+
 For text normalization in our experiment, we build small typo and slang words dictionaries named **kamusalay.csv**, that contain two columns (first columns are the typo and slang words, and the second one is the formal words). Here the examples of mapping:
 * beud --> banget
 * jgn --> jangan
