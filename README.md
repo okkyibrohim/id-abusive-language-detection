@@ -13,7 +13,7 @@ For text normalization in our experiment, we build small typo and slang words di
 * loe --> kamu
 
 ## More detail
-If you want to know how this dataset was build (include the explanation of crawling and annotation technique) and how we did our experiment in abusive language detection in Indonesian language using this dataset, you can read here: https://www.sciencedirect.com/science/article/pii/S1877050918314583.
+If you want to know how this dataset was build (including the explanation of crawling and annotation technique) and how we did our experiment in abusive language detection in Indonesian language using this dataset, you can read our paper in here: https://www.sciencedirect.com/science/article/pii/S1877050918314583.
 
 ## How to cite us
 This dataset can be used for free, but if you want to publish paper/publication using this dataset, please cite this publication:
